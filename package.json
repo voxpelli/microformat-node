@@ -34,7 +34,6 @@
   "dependencies": {
     "cheerio": "0.19.x",
     "entities": "1.1.x",
-    "request": "2.55.x",
     "when": "3.7.x"
   },
   "devDependencies": {
